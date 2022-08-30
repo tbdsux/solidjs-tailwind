@@ -10,7 +10,7 @@
   },
   "license": "ISC",
   "devDependencies": {
-    "vite": "^2.5.7",
+    "vite": "^2.9.13",
     "vite-plugin-solid": "^2.0.3"
   },
   "dependencies": {
